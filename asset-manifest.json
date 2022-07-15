@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.34408026.css",
-    "main.js": "/Portfolio/static/js/main.668ee87d.js",
+    "main.js": "/Portfolio/static/js/main.6a0b645e.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Patil_resume.pdf": "/Portfolio/static/media/Patil_resume.aab6d4a08c035212e5ba.pdf",
+    "static/media/Patil_resume.pdf": "/Portfolio/static/media/Patil_resume.8e14a13a685ce5ae8316.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/kabbadi_app_logo.png": "/Portfolio/static/media/kabbadi_app_logo.d05e91db77c5535c26dd.png",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.34408026.css.map": "/Portfolio/static/css/main.34408026.css.map",
-    "main.668ee87d.js.map": "/Portfolio/static/js/main.668ee87d.js.map",
+    "main.6a0b645e.js.map": "/Portfolio/static/js/main.6a0b645e.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34408026.css",
-    "static/js/main.668ee87d.js"
+    "static/js/main.6a0b645e.js"
   ]
 }
